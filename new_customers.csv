@@ -1,0 +1,5 @@
+tenure,monthly_charges,total_charges,contract_type,payment_method
+6,75,450,Month-to-month,Electronic check
+18,95,1710,One year,Credit card
+2,65,130,Month-to-month,Mailed check
+40,110,4400,Two year,Bank transfer

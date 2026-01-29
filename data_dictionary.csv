@@ -1,0 +1,8 @@
+column_name,description
+customer_id,Unique customer ID
+tenure,Number of months customer stayed
+monthly_charges,Monthly bill amount
+total_charges,Total amount paid by customer
+contract_type,Type of contract
+payment_method,Payment method used by customer
+churn,"Customer left or not (1=Yes, 0=No)"
